@@ -1,5 +1,4 @@
 (function() {
-  'use asm';
   'use strict';
 
   function tween(b, a, fraction) {
